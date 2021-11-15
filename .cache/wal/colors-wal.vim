@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/usr/share/endeavouros/backgrounds/eos_wallpapers_community/neon_astronaut_endeavor.jpg"
+let background = "#090713"
+let foreground = "#e8c7e7"
+let cursor     = "#e8c7e7"
+
+" Colors
+let color0  = "#090713"
+let color1  = "#d9274b"
+let color2  = "#5f22c3"
+let color3  = "#c42ad9"
+let color4  = "#cb31da"
+let color5  = "#5adde2"
+let color6  = "#cd59e1"
+let color7  = "#e8c7e7"
+let color8  = "#a28ba1"
+let color9  = "#d9274b"
+let color10 = "#5f22c3"
+let color11 = "#c42ad9"
+let color12 = "#cb31da"
+let color13 = "#5adde2"
+let color14 = "#cd59e1"
+let color15 = "#e8c7e7"

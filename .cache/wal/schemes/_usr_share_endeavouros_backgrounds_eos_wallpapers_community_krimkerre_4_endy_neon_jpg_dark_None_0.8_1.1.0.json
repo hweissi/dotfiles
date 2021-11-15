@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/endeavouros/backgrounds/eos_wallpapers_community/krimkerre_4_endy_neon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100515",
+        "foreground": "#8ac5e2",
+        "cursor": "#8ac5e2"
+    },
+    "colors": {
+        "color0": "#100515",
+        "color1": "#99112f",
+        "color2": "#dd2218",
+        "color3": "#9f1155",
+        "color4": "#eace48",
+        "color5": "#154dc5",
+        "color6": "#e830bc",
+        "color7": "#8ac5e2",
+        "color8": "#60899e",
+        "color9": "#99112f",
+        "color10": "#dd2218",
+        "color11": "#9f1155",
+        "color12": "#eace48",
+        "color13": "#154dc5",
+        "color14": "#e830bc",
+        "color15": "#8ac5e2"
+    }
+}

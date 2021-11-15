@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/endeavouros/backgrounds/eos_wallpapers_community/neon_astronaut_endeavor.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090713",
+        "foreground": "#e8c7e7",
+        "cursor": "#e8c7e7"
+    },
+    "colors": {
+        "color0": "#090713",
+        "color1": "#cc3452",
+        "color2": "#622db8",
+        "color3": "#bb36cd",
+        "color4": "#c13dce",
+        "color5": "#64d4d8",
+        "color6": "#c662d8",
+        "color7": "#e8c7e7",
+        "color8": "#a28ba1",
+        "color9": "#cc3452",
+        "color10": "#622db8",
+        "color11": "#bb36cd",
+        "color12": "#c13dce",
+        "color13": "#64d4d8",
+        "color14": "#c662d8",
+        "color15": "#e8c7e7"
+    }
+}

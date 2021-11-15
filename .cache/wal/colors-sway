@@ -1,0 +1,21 @@
+set $wallpaper /usr/share/endeavouros/backgrounds/eos_wallpapers_community/neon_astronaut_endeavor.jpg
+
+set $background #090713
+set $foreground #e8c7e7
+
+set $color0 #090713
+set $color1 #d9274b
+set $color2 #5f22c3
+set $color3 #c42ad9
+set $color4 #cb31da
+set $color5 #5adde2
+set $color6 #cd59e1
+set $color7 #e8c7e7
+set $color8 #a28ba1
+set $color9 #d9274b
+set $color10 #5f22c3
+set $color11 #c42ad9
+set $color12 #cb31da
+set $color13 #5adde2
+set $color14 #cd59e1
+set $color15 #e8c7e7

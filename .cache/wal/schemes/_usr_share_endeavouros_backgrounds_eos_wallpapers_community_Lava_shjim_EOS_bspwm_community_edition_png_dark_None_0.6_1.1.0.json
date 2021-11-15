@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/endeavouros/backgrounds/eos_wallpapers_community/Lava_shjim_EOS_bspwm_community_edition.png",
+    "alpha": "100",
+    "special": {
+        "background": "#180c1b",
+        "foreground": "#d0b7db",
+        "cursor": "#d0b7db"
+    },
+    "colors": {
+        "color0": "#180c1b",
+        "color1": "#7130c2",
+        "color2": "#9c37cd",
+        "color3": "#af31c7",
+        "color4": "#9f3acd",
+        "color5": "#a952d3",
+        "color6": "#c94cd2",
+        "color7": "#d0b7db",
+        "color8": "#918099",
+        "color9": "#7130c2",
+        "color10": "#9c37cd",
+        "color11": "#af31c7",
+        "color12": "#9f3acd",
+        "color13": "#a952d3",
+        "color14": "#c94cd2",
+        "color15": "#d0b7db"
+    }
+}
