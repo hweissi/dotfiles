@@ -2,11 +2,11 @@
 unrecognized_file: lightgray
 recognized_file:   white
 executable_file:   lightgreen
-dir:               blue
+dir:               magenta
 
 # Link
 dead_link: red
-link:      magenta
+link:      blue
 
 # special files
 socket:    green

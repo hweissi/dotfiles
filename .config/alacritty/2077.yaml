@@ -1,13 +1,13 @@
 colors:
   # Default colors
   primary:
-    background: '0x292C3E'
-    foreground: '0xEBEBEB'
+    background: '0x090713'
+    foreground: '0xe8c7e7'
 
   # Cursor colors
   cursor:
     text: '0x2F2F2F'
-    cursor: '0xE0E0E0'
+    cursor: '0xe8c7e7'
 
   # Normal colors
   normal:

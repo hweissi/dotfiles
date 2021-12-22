@@ -5,9 +5,13 @@
 # Project Repository: https://github.com/oakszyjrnrdy/betterlockscreen_rapid
 
 # check args
-if [ "$#" -ne "2" ]; then
+if [ "$#" -lt "2" ]; then
 	echo "Usage: $0 radius time" >&2
 	exit 3
+fi
+if [ "$#" -gt "3" ]; then
+    echo "Usage: $0 radius time" >&2
+    exit 3
 fi
 if [ "$1" -gt "0" ]; then
 	radius="$1"
@@ -21,7 +25,14 @@ else
 	echo "Invalid argument time $2" >&2
 	exit 2
 fi
+if [ "$#" -ne "3" ]; then
+    lockargs="--nofork"
+    #echo "FORKING"
+    #nofork="false"
+fi
 
+
+echo "$nofork"
 # user config
 user_config_file="${XDG_CONFIG_HOME:-$HOME/.config}/betterlockscreen_rapid.conf"
 if [ -f "$user_config_file" ]; then
@@ -29,9 +40,10 @@ if [ -f "$user_config_file" ]; then
 else
 	echo "Config file not found"
 fi
-if [ "$nofork" = "true" ]; then
-	lockargs="--nofork"
-fi
+#if [ "$nofork" = "true" ]; then
+#    echo "FORKING"
+#	lockargs="--nofork"
+#fi
 # run command
 i3lock-fancy-rapid "$radius" "$time" \
 	--time-pos 'x+110:h-70' \
